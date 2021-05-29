@@ -10,7 +10,7 @@
 
 
 
-###For CircuitPython on line 8 and 9 where the code says:
+## For CircuitPython on line 8 and 9 where the code says:
 ```python
     probe_pin = board.GP26_A0
     speaker_pin = board.GP18
